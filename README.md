@@ -7,7 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayunhwan.dev@gmail.com)](mailto:nayunhwan.dev@gmail.com)
 <br/>
 
-  Software Engineer (Front-End) at <a href="https://sendbird.com" style="color:#6728cb !important" ><b>Sendbird</b></a>
+  <h3>Yunhwan Na (Logan Na)</h3>
+  
+  Software Engineer (Front-End) at <a href="https://sendbird.com" style="color:#6728cb !important;" ><b>Sendbird</b></a>
   
 [![image](https://user-images.githubusercontent.com/7167731/124484243-2bae6c80-dde6-11eb-95f7-f725b45e6b04.png)](https://www.youtube.com/watch?v=kZO5PEypjVg)
 </div>
