@@ -10,7 +10,7 @@
   [![CV KR](https://img.shields.io/static/v1?label=Download%20CV&message=KR&color=black)](https://nayunhwan.github.io/whoami/cv/Yunhwan_Na_CV_KR.pdf)
 <br/>
   <h3>Yunhwan Na (Logan Na)</h3>
-  Software Engineer (Front-End) at <a href="https://sendbird.com" style="color:#6728cb !important;" ><b>Sendbird</b></a>
+  Software Engineer (Front-End)><b>Sendbird</b></a>
 </div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseawavve" width=0/></a>
 
