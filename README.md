@@ -10,7 +10,7 @@
   [![CV KR](https://img.shields.io/static/v1?label=Download%20CV&message=KR&color=black)](https://nayunhwan.github.io/whoami/cv/Yunhwan_Na_CV_KR.pdf)
 <br/>
   <h3>Yunhwan Na (Logan Na)</h3>
-  Software Engineer (Front-End) at <b><a target="_blank" href="https://flipster.xyz">Flipster</a></b>
+  Sr. Software Engineer (Front-End) at <b><a target="_blank" href="https://cheiron.bio">Cheiron</a></b>
 </div>
 
 
